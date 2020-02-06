@@ -1,3 +1,41 @@
+
+NOTE IDEA: Requesting improvement : 
+
+workflow:todo="create-missing-misp-taxonomy"
+Create missing MISP taxonomy to tagged additonnal task(e.g. a new category of tag)
+
+workflow:todo="review-before-adding-into-IDS"
+Review is required before publishing the information into IDS
+
+workflow:todo="add-into-IDS"
+Publishing the information into IDS
+
+workflow:todo="review-for-positive-false"
+Review the the information tagged to limit the number of positives-false 
+
+Taxonomy added object 
+
+        {
+          "value": "create-missing-misp-taxonomy",
+          "expanded": "Create missing MISP taxonomy to tagged additonnal task(e.g. a new category of tag)"
+        },
+        {
+          "value": "review-before-adding-into-IDS",
+          "expanded": "Review is required before publishing the information into IDS"
+        },
+        {
+          "value": "add-into-IDS",
+          "expanded": "Publishing the information into IDS"
+        },
+        {
+          "value": "review-for-positive-false",
+          "expanded": "Review the the information tagged to limit the number of positives-false "
+        },
+
+
+
+________________________________________________________________________________________
+
 Adding Taxonomie workflow from MISP on the Map Guidelines Version 4  
 
 source : https://www.misp-project.org/taxonomies.html#_workflow
